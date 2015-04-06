@@ -4,3 +4,4 @@ Git can be downloaded from
 
 windows.github.com
 
+Now I am committing my changes on the server instead of local system
