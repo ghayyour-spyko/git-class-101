@@ -1,3 +1,2 @@
 For |Class 3 Git in practice
-
 SSH Keys for public usage
