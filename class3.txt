@@ -1,2 +1,8 @@
+
 For |Class 3 Git in practice
 SSH Keys for public usage
+
+For |Class 3
+
+SSH Keys
+
